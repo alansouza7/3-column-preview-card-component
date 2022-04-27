@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
+main {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,7 +35,7 @@ body {
     font-size: 14px;
 }
 
-.box h3 {
+.box h2 {
     color: hsl(31, 77%, 52%);
     font-family: 'Lexend Deca', sans-serif;
     align-self: flex-start;
@@ -53,7 +53,7 @@ body {
     background-color: hsl(184, 100%, 22%);
 }
 
-.box2 h3 {
+.box2 h2 {
     color: hsl(184, 100%, 22%);
 }
 
@@ -61,6 +61,6 @@ body {
     background-color: hsl(179, 100%, 13%);
 }
 
-.box3 h3{
+.box3 h2{
     color: hsl(179, 100%, 13%);
 }
